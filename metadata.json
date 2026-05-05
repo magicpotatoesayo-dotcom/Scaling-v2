@@ -1,0 +1,6 @@
+{
+  "name": "Range Value Calculator",
+  "description": "Calculates the scaled output (xRV) based on Upper Range Value (URV), Lower Range Value (LRV), and Percentage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
